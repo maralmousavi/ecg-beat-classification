@@ -30,20 +30,23 @@ Classes: ['N': 0, 'S': 1, 'V': 2, 'F': 3, 'Q': 4]
 - F : Fusion Beats
 - Q : Unknown Beats
 
-![Graph](https://github.com/taherfattahi/dnn-distance-line-protection-zone/blob/master/images/all-category.png)
+![Graph](https://github.com/maralmousavi/ECG-beat-classification/blob/master/images/all-category.png)
 
 ### Acuracy Classical Algorithm
-![Graph](https://github.com/taherfattahi/dnn-distance-line-protection-zone/blob/master/images/accuracy-classical-algorithm.png)
+![Graph](https://github.com/maralmousavi/ECG-beat-classification/blob/master/images/accuracy-classical-algorithm.png)
 
 ### Acuracy Deep Neural Network
-![Graph](https://github.com/taherfattahi/dnn-distance-line-protection-zone/blob/master/images/accuracy-dnn-algorithm.png)
-
-#### Graph of the Deep Neural Network
-![Graph](https://github.com/taherfattahi/dnn-distance-line-protection-zone/blob/master/images/graph-deep-neural-network.png)
+![Graph](https://github.com/maralmousavi/ECG-beat-classification/blob/master/images/accuracy-dnn-algorithm.png)
 
 #### Model Accuracy-Loss Plot
-![Graph](https://github.com/taherfattahi/dnn-distance-line-protection-zone/blob/master/images/model-accuracy-loss.png)
+![Graph](https://github.com/maralmousavi/ECG-beat-classification/blob/master/images/model-accuracy-loss.png)
 
+#### Graph of the Deep Neural Network
+![Graph](https://github.com/maralmousavi/ECG-beat-classification/blob/master/images/graph-deep-neural-network.png)
+
+## Note:
+ - extract dataset.zip file for testing source code
+ 
 ## Collaborators
 - [Taher Fattahi](https://www.github.com/taherfattahi)
 
