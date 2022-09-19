@@ -8,7 +8,7 @@
 - XGBoost Classifier = accuracy: 92%
 
 ### Deep Neural Network
--  DNN = accuracy: 95%
+-  DNN = accuracy: 94%
 
 ### Dataset
 <b>Arrhythmia Dataset</b>
