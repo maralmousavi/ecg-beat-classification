@@ -3,7 +3,7 @@
 
 ### Classical Machine Learning Algorithm
 - Logistic Regression = accuracy: 91%
-- Random Forest Classifiery = accuracy: 97%
+- Random Forest Classifier = accuracy: 97%
 - Histogram-based Boosting Classifier = accuracy: 93%
 - XGBoost Classifier = accuracy: 92%
 
@@ -23,7 +23,7 @@ Sampling Frequency: 125Hz
 Data Source: Physionet's MIT-BIH Arrhythmia Dataset
 <br>
 Classes: ['N': 0, 'S': 1, 'V': 2, 'F': 3, 'Q': 4]
-- N : Non-ecotic beats (normal beat)
+- N : Non-ectopic beats (normal beat)
 - S : Supraventricular ectopic beats
 - V : Ventricular ectopic beats
 - F : Fusion Beats
